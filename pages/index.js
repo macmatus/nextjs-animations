@@ -17,7 +17,7 @@ export default function Home() {
       {data?.map((bike, key) => {
         return (
           <div key={key}>
-            <img src={`http://localhost:3000/pages/images/${bike.images[0]}`} alt="" />
+            <img src={bike.thumb} alt="" />
             <h2>{bike.model}</h2>
             <p>£{bike.price}</p>
           </div>

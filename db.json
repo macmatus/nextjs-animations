@@ -1,0 +1,46 @@
+{
+    "bikes": [
+        {
+            "id": "yamaha-r1m",
+            "model": "R1M",
+            "tagline": "R History. R Future.",
+            "price": "23,600",
+            "power": "147,1",
+            "torque": "113.3",
+            "displacement": "998",
+            "images": [
+                "yamaha-r1m-horizontal-1.png",
+                "yamaha-r1m-horizontal-1.png",
+                "yamaha-r1m-vertical.png"
+            ]
+        },
+        {
+            "id": "yamaha-r1m",
+            "model": "R1M",
+            "tagline": "R History. R Future.",
+            "price": "23,600",
+            "power": "147,1",
+            "torque": "113.3",
+            "displacement": "998",
+            "images": [
+                "yamaha-r1m-horizontal-1.png",
+                "yamaha-r1m-horizontal-1.png",
+                "yamaha-r1m-vertical.png"
+            ]
+        },
+        {
+            "id": "yamaha-r1m",
+            "model": "R1M",
+            "tagline": "R History. R Future.",
+            "price": "23,600",
+            "power": "147,1",
+            "torque": "113.3",
+            "displacement": "998",
+            "images": [
+                "yamaha-r1m-horizontal-1.png",
+                "yamaha-r1m-horizontal-1.png",
+                "yamaha-r1m-vertical.png"
+            ]
+        }
+    ]
+}

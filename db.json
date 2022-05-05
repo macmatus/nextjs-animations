@@ -16,10 +16,10 @@
             ]
         },
         {
-            "id": "yamaha-r1m",
-            "model": "R1M",
+            "id": "yamaha-mt-10",
+            "model": "MT-10",
             "tagline": "R History. R Future.",
-            "price": "23,600",
+            "price": "13,500",
             "power": "147,1",
             "torque": "113.3",
             "displacement": "998",
@@ -31,10 +31,10 @@
             ]
         },
         {
-            "id": "yamaha-r1m",
-            "model": "R1M",
+            "id": "yamaha-tenere-700",
+            "model": "Ténéré",
             "tagline": "R History. R Future.",
-            "price": "23,600",
+            "price": "9,900",
             "power": "147,1",
             "torque": "113.3",
             "displacement": "998",
